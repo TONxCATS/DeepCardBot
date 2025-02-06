@@ -2,7 +2,8 @@ import logging
 import asyncio
 from aiogram import Bot, Dispatcher, types
 
-TOKEN = "7853727312:AAFTWGfvGnyX_sunIsjMH1mxKtfCPkT2A9k"
+TOKEN = "7793220413: AAFQkchWGM3B4RL lUrDf
+11FYzeonN1rljGo"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
